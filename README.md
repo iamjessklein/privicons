@@ -2,7 +2,7 @@
 An open source privacy and security icon set 
 
 # about
-Over the past few months I have been wishing that there was a pack of icons that I could use whenever I was working on privacy or security related designs. I started to write down a short list of the icons that I wished were available and then writing - led to doodling - doodling led to mocking up - and mocking up led to sharing. I have never made an icon set so this was new territory for me. 
+Over the past few months I have been wishing that there was a pack of icons that I could use whenever I was working on privacy or security related designs. I started to write down a short list of the icons that I wished were available and then writing - led to doodling - doodling led to mocking up - and mocking up led to sharing. I have never made an icon set so this was new territory for me. [Read about the process](https://github.com/iamjessklein/privicons/blob/master/README.md)
 
 # license
 
