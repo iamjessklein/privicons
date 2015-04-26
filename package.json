@@ -7,6 +7,7 @@
     "privicons": "build-webfont.js"
   },
   "dependencies": {
+    "chalk": "^1.0.0",
     "webfonts-generator": "^0.2.4"
   },
   "devDependencies": {},

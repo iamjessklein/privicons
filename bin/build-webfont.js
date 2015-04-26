@@ -1,5 +1,5 @@
 var fs = require('fs');
-
+var chalk = require('chalk');
 var webfontsGenerator = require('webfonts-generator');
 
 webfontsGenerator({
@@ -15,5 +15,5 @@ webfontsGenerator({
   }
 }, function(err) {
   if (err) throw err;
-  console.log("Yay!");
+  console.log(chalk.green.bold("Generated fonts!"));
 });
