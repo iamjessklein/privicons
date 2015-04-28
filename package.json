@@ -1,0 +1,28 @@
+{
+  "name": "privicons",
+  "version": "0.0.1",
+  "description": " An open source privacy and security icon set .",
+  "main": "index.js",
+  "bin": {
+    "privicons": "build-webfont.js"
+  },
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "webfonts-generator": "^0.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bin/build-webfont.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamjessklein/privicons.git"
+  },
+  "author": "Jess Klein <jessicabrookeklein@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamjessklein/privicons/issues"
+  },
+  "homepage": "https://github.com/iamjessklein/privicons"
+}
